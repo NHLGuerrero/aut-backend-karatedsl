@@ -7,7 +7,7 @@ Proyecto de automatización de pruebas API basado en Karate DSL.
 - java/breakindbadapi/features: Contiene lista de archivos features en lenguaje Gherkin con escenarios de prueba.
 - java/breakindbadapi/request: Contiene estructuras de json de requests.
 - java/breakindbadapi/responde: Continene estructura json de responses.
-- java/core/environment: Contienen set de datos por ambiente (config-qa.js).
+- java/core/environment: Contiene set de datos por ambiente (config-qa.js).
 - java/karate-config.js: Configuraciónes
 
 ## Requerimientos generales
@@ -27,7 +27,7 @@ Descargar e instalar
 
 Clonar el repositorio:
 
-    git clone git@github.com:NHLGuerrero/aut-backend-karatedsl.git
+    git clone git@github.com:NHLGuerrero/aut-backend-karatedsl-breakingbadapi.git
 
 Ejecución por tag (Agregar el tag @run a el/los casos de prueba a ejecutar).
 
